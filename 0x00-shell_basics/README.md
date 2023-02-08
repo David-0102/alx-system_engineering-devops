@@ -2,3 +2,4 @@
 2.List direcory
 3.Home directory
 4.List long format
+5.List hidden files
