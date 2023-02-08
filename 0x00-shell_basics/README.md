@@ -1,1 +1,2 @@
-print working directory
+1.print working directory
+2.List direcory
