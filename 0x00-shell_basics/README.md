@@ -10,4 +10,7 @@
 10.Delete directory
 11.Back to previous directory
 12.Lists in long format including hidden files in wd and boot directory
-13.
+13. Print type of file
+14.Create symbolic link
+15.Copy HTML files
+
