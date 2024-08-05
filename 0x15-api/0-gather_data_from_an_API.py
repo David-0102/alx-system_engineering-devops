@@ -1,5 +1,19 @@
 #!/usr/bin/python3
+"""
+s script fetches and displays the TODO list progress for a given employee ID.
 
+Usage:
+    ./0-gather_data_from_an_API.py <employee_id>
+
+Arguments:
+    employee_id (int): The ID of the employee whose TODO list progress is to be retrieved.
+
+The script performs the following tasks:
+1. Fetches the employee's details from the API.
+2. Retrieves the TODO list for the specified employee.
+3. Calculates the number of completed tasks and total tasks.
+4. Prints out the employee's name and their TODO list progress in a formatted manner.
+"""
 import requests
 import sys
 
