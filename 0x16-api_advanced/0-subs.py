@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+Module that queries the Reddit API to get the number of subscribers for a subreddit.
+"""
 """ Exporting csv files"""
 import json
 import requests
